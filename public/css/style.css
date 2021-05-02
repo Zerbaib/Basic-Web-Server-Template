@@ -1,0 +1,12 @@
+:root {
+    --white: #fff;
+}
+
+
+/* EXEMPLE OF A USE OF THE ABOVE CODE
+
+p {
+    color: var(--white)
+} 
+
+*/
