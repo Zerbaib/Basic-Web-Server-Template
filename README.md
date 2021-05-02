@@ -8,8 +8,9 @@ For any errors found, please contact me [here](https://discord.gg/G6WQsMQShZ) fo
 
 # Installation/Launch
 
-> npm i
+> npm i  
 > node index.js  
+
 Application launched on http://localhost:8000
 
 # License
