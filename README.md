@@ -2,16 +2,21 @@
 
 A simple web server template for any project, just download it and you are ready to code. Template by [MélioOff](https://github.com/meliooff) in EJS/JS/CSS
 
-# Errors
-
-For any errors found, please contact me [here](https://discord.gg/G6WQsMQShZ) for exemple or do a pull request. 
+# Features
+* Ready to use basics
+* CSS file for mobile users
+* 
 
 # Installation/Launch
 
 > npm i  
-> node index.js  
+> node src/index.js  
 
 Application launched on http://localhost:8000
+
+# Errors
+
+For any errors found, please contact me [here](https://discord.gg/G6WQsMQShZ) for exemple or do a pull request. 
 
 # License
 This repository is licensed under the MPL-2.0 License. See the `LICENSE` file ([here](https://github.com/meliooff/Basic-Web-Server-Template/blob/master/LICENSE)) for more information.  
@@ -20,6 +25,6 @@ This repository is licensed under the MPL-2.0 License. See the `LICENSE` file ([
 
 # Table of contents
 * [Introduction](#Basic-Web-Server-Template)
-  * [Errors](#Errors)
   * [Installation/Launch](#Installation/Launch)
-  * [License](#License)
+* [Errors](#Errors)
+* [License](#License)
