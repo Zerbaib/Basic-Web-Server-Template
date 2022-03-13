@@ -1,0 +1,26 @@
+:root {
+    --white: #fff;
+}
+
+
+/* EXEMPLE OF A USE OF THE ABOVE CODE
+
+p {
+    color: var(--white)
+} 
+
+*/
+
+/* BACK TO TOP */
+#back2Top {
+    width: 40px; height: 40px; line-height: 40px; 
+    overflow: hidden; z-index: 999; display: none; cursor: pointer;
+    position: fixed; bottom: 50px; right: 30px; text-decoration: none;
+    border-radius: 50%; background-color: #6464645e;
+    color: #fff; text-align: center; font-size: 25px;
+}
+#back2Top::after {
+    content: "\f077"; font-family: FontAwesome;
+    font-size: 19px; color: #fff; vertical-align: bottom;
+  }
+#back2Top i { vertical-align: text-top; }
