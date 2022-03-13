@@ -5,7 +5,8 @@ A simple web server template for any project, just download it and you are ready
 # Features
 * Ready to use basics
 * CSS file for mobile users
-* 
+* Automatic Back2Top button
+* And much more...
 
 # Installation/Launch
 
