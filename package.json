@@ -1,0 +1,24 @@
+{
+  "name": "basic-web-server-template",
+  "version": "1.0.0",
+  "description": "A simple web server template for any project, just download it and you are ready to code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meliooff/Basic-Web-Server-Template.git"
+  },
+  "author": "https://github.com/meliooff",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/meliooff/Basic-Web-Server-Template/issues"
+  },
+  "homepage": "https://github.com/meliooff/Basic-Web-Server-Template#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
