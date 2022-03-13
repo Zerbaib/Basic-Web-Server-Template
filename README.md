@@ -26,6 +26,7 @@ This repository is licensed under the MPL-2.0 License. See the `LICENSE` file ([
 
 # Table of contents
 * [Introduction](#Basic-Web-Server-Template)
+  * [Features](#Features)
   * [Installation/Launch](#Installation/Launch)
 * [Errors](#Errors)
 * [License](#License)
