@@ -8,7 +8,7 @@ app.set('views', 'src/views');
 app.use(express.static("src/public"));
 
 app.get("/", (req, res) => {
-    res.render('index', { message: 'Hello world' });
+    res.render('index', { message: 'Welcome on my website' });
 });
 
 app.get("/api", (req, res) => {
